@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arpan's Homepage"
+title                    : "Arpan's Home"
 title_separator          : "-"
 name                     : &name "Arpan Patel"
 description              : &description "personal description"
